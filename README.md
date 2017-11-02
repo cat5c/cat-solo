@@ -1,6 +1,6 @@
 # README
 
-This is Catheryn Celaya's solo project app
+This is my solo project app including tests, which is a loose replica of my friends and family project.
 
 ## Getting started
 
